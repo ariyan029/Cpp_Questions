@@ -1,5 +1,8 @@
 /*
-consider a human resource management system, which stores the salary details of the employees working in the company "ABC" DEVELOP A CLASS"Employee" wherein you will accept user input for salary and allowance of three employee and display the total salaries of these employees using array of objects
+consider a human resource management system, which stores the salary details
+ of the employees working in the company "ABC" DEVELOP A CLASS"Employee" wherein
+  you will accept user input for salary and allowance of three employee and display
+   the total salaries of these employees using array of objects
 */
 
 #include <iostream>

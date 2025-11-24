@@ -1,5 +1,7 @@
 /*
-consider a book reantal Management System ,which stores the details of books and customers, who rent books from it, develop a class "Book" and calculate the volume of two books using paramererized constructor
+consider a book reantal Management System ,which stores the details of books and customers,
+ who rent books from it, develop a class "Book" and calculate the volume of
+  two books using paramererized constructor
 */
 
 #include <iostream>

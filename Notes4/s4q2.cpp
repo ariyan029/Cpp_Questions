@@ -1,5 +1,8 @@
 /*
-consider a car rental MANAGEMENT SYSTEM which store the details of various brandsof cars rented by its customers.Develop a class "car" wherin you will accept user input for id brand and price of three cars and display the car details using array of objects
+consider a car rental MANAGEMENT SYSTEM which store the details of
+ various brands of cars rented by its customers.Develop a class "car" 
+ wherin you will accept user input for id brand and price of three cars 
+ and display the car details using array of objects
 */
 
 

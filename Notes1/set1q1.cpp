@@ -1,4 +1,5 @@
-//you need to design a class that models complex numbersand supports addition of two complex numbers using parameterized constructors.
+//you need to design a class that models complex numbersand supports 
+//addition of two complex numbers using parameterized constructors.
 
 #include <iostream>
 using namespace std;

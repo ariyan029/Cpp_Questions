@@ -1,5 +1,9 @@
 /*
-A company evaluates its employees based on their job type Developer -> evaluated on number of projects compiled. Manager--> ealuated on numbers of teams handled The company wants a flexible evaluation system using virtual functions,allowing different evaluation criteria for each employee type
+A company evaluates its employees based on their job type 
+Developer -> evaluated on number of projects compiled. 
+Manager--> ealuated on numbers of teams handled
+ The company wants a flexible evaluation system using virtual functions,
+ allowing different evaluation criteria for each employee type
 
 */
 #include <iostream>

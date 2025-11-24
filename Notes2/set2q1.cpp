@@ -1,5 +1,6 @@
 /*
-write a c++ program of a bank account deposit system account holder name , current ammount , amound deposit and amound withdrawn using constructor
+write a c++ program of a bank account deposit system account holder name 
+, current ammount , amound deposit and amound withdrawn using constructor
 
 */
 #include <iostream>

@@ -1,5 +1,6 @@
 /*
-Create a bank account with account holder name account number using parameterized constructors and make functions to withdraw and deposit money
+Create a bank account with account holder name account number
+ using parameterized constructors and make functions to withdraw and deposit money
 
 */
 #include <iostream>

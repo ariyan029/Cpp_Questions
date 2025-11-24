@@ -1,5 +1,9 @@
 /*
-Consider a Student Management system , which stores the results of the students of an institute. develop a class "Student" wherein you wil accept user input for roll number and marks of three subjectsof a student and display the total marks and grade of the students(Total marks>=80 grade A, Total marks 70-79: grade B, Total marks 60 - 69 grade C. total marks 50-59 grade D , Total marks < 50 Fail)
+Consider a Student Management system , which stores the results of the students of an institute.
+ develop a class "Student" wherein you wil accept user input for roll number and marks of three 
+ subjectsof a student and display the total marks and grade of the students(Total marks>=80
+  grade A, Total marks 70-79: grade B, Total marks 60 - 69 grade C. total marks 50-59 grade D ,
+   Total marks < 50 Fail)
 
 */
 

@@ -1,5 +1,7 @@
 /*
-using the multilebel inheritance solve the question . A car company has no of cars with different models.You have to list them to the company and check the details of the customer who has taken them for rent
+using the multilebel inheritance solve the question .
+ A car company has no of cars with different models.You have to list them to the company
+  and check the details of the customer who has taken them for rent
 
 */
 
